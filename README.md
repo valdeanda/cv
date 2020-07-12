@@ -1,4 +1,4 @@
 Curriculum vitae
 ================
 
-View at [lcolladotor.github.io/cv](http://lcolladotor.github.io/cv).
+View at [valdeanda.github.io/cv](http://lcolladotor.github.io/cv).
