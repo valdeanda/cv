@@ -1,6 +1,6 @@
 ---
-title: "Leonardo Collado-Torres's CV"
-author: Leonardo Collado-Torres
+title: "Valerie De Anda Torres's CV"
+author: Valerie De Anda Torres
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -40,8 +40,8 @@ sheet_is_publicly_readable <- TRUE
 PDF_EXPORT <- FALSE
 
 
-CV_PDF_LOC <- "http://lcolladotor.github.io/cv/en_CV_lcollado.pdf"
-CV_HTML_LOC <- "http://lcolladotor.github.io/cv"
+CV_PDF_LOC <- "http://valdeanda.github.io/cv/en_CV_lcollado.pdf"
+CV_HTML_LOC <- "http://valdeanda.github.io/cv"
 
 
 # A global (gasp) variable that holds all the links that were inserted for
